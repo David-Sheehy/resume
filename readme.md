@@ -1,4 +1,4 @@
 My resume.
 
 Can be viewed at
-[david-sheehy.github.io/resume](david-sheehy.github.com/resume)
+[david-sheehy.github.io/resume](https://david-sheehy.github.com/resume)
